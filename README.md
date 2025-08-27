@@ -8,3 +8,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Shadowhunter22)
 ---
+
+
+## ABOUT ME
+- Student at Wilmington University, Delaware
+- Cybersecurity and Digital Safety Advocate
+- Defending the vulnerable & protecting digital spaces to build a safer digital world.
+- Open to internships, mentorships, and collaborative projects
