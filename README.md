@@ -22,3 +22,8 @@
 [![Offensive Security](https://img.shields.io/badge/-Offensive%20Security-FF5722?logo=kalilinux&style=for-the-badge)](https://github.com/Shadowhunter22)
 [![Defensive Security](https://img.shields.io/badge/-Defensive%20Security-3F51B5?logo=cyberdefenders&style=for-the-badge)](https://github.com/Shadowhunter22)
 [![Cyber Hygiene](https://img.shields.io/badge/-Cyber%20Hygiene-FF9800?logo=education&style=for-the-badge)](https://github.com/Shadowhunter22)
+
+
+
+## CONNECT WITH ME
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abubakarsadik/)
